@@ -1,0 +1,7 @@
+﻿  RockPaperScissors.cpp
+c:\users\sharkbait\source\repos\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sharkbait\source\repos\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(98): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\sharkbait\source\repos\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(98): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\sharkbait\source\repos\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(98): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\sharkbait\source\repos\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(98): note: this argument is used as a buffer size
+  RockPaperScissors.vcxproj -> C:\Users\Sharkbait\source\repos\RockPaperScissors\Debug\RockPaperScissors.exe

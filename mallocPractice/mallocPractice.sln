@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mallocPractice", "mallocPractice\mallocPractice.vcxproj", "{8EC8283C-DBA2-45DC-81FA-C8E486FBC20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC8283C-DBA2-45DC-81FA-C8E486FBC20B}.Debug|x64.ActiveCfg = Debug|x64
+		{8EC8283C-DBA2-45DC-81FA-C8E486FBC20B}.Debug|x64.Build.0 = Debug|x64
+		{8EC8283C-DBA2-45DC-81FA-C8E486FBC20B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EC8283C-DBA2-45DC-81FA-C8E486FBC20B}.Debug|x86.Build.0 = Debug|Win32
+		{8EC8283C-DBA2-45DC-81FA-C8E486FBC20B}.Release|x64.ActiveCfg = Release|x64
+		{8EC8283C-DBA2-45DC-81FA-C8E486FBC20B}.Release|x64.Build.0 = Release|x64
+		{8EC8283C-DBA2-45DC-81FA-C8E486FBC20B}.Release|x86.ActiveCfg = Release|Win32
+		{8EC8283C-DBA2-45DC-81FA-C8E486FBC20B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194DF649-F3BA-4311-95FF-5CFDC7513759}
+	EndGlobalSection
+EndGlobal

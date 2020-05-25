@@ -1,0 +1,4 @@
+﻿  ptrShow.cpp
+c:\users\sharkbait\source\repos\ptrshow\ptrshow\ptrshow.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\sharkbait\source\repos\ptrshow\ptrshow\ptrshow.cpp(33): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  ptrShow.vcxproj -> C:\Users\Sharkbait\source\repos\ptrShow\Debug\ptrShow.exe
